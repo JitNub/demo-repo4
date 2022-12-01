@@ -1,3 +1,3 @@
 # Demo
 
-repo 4 new
+repo 4 feature
